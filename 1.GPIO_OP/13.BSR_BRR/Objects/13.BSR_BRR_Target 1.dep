@@ -1,0 +1,82 @@
+Dependencies for Project '13.BSR_BRR', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x562A7CC6)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I E:\Works\Working\Keil\STM32\Programs\GPIO_OP\13.BSR_BRR\RTE-I E:\Works\Working\Keil\STM32\Programs\GPIO_OP\13.BSR_BRR\RTE\Device\STM32F100RB-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\inc-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_MD_VL-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA3088)
+I (E:\Works\Working\Keil\STM32\Programs\GPIO_OP\13.BSR_BRR\RTE\RTE_Components.h)(0x562A7AC7)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm3.h)(0x53FC5502)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54761628)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF15D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF15D2)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E5164)
+I (E:\Works\Working\Keil\STM32\Programs\GPIO_OP\13.BSR_BRR\RTE\Device\STM32F100RB\stm32f10x_conf.h)(0x53B6853A)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x53B6853A)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x53B6853A)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x53B6853A)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\inc\misc.h)(0x53B6853A)
+F (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\src\misc.c)(0x53B6853A)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I E:\Works\Working\Keil\STM32\Programs\GPIO_OP\13.BSR_BRR\RTE-I E:\Works\Working\Keil\STM32\Programs\GPIO_OP\13.BSR_BRR\RTE\Device\STM32F100RB-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\inc-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_MD_VL-o .\objects\misc.o --omf_browse .\objects\misc.crf --depend .\objects\misc.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\inc\misc.h)(0x53B6853A)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA3088)
+I (E:\Works\Working\Keil\STM32\Programs\GPIO_OP\13.BSR_BRR\RTE\RTE_Components.h)(0x562A7AC7)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm3.h)(0x53FC5502)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54761628)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF15D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF15D2)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E5164)
+I (E:\Works\Working\Keil\STM32\Programs\GPIO_OP\13.BSR_BRR\RTE\Device\STM32F100RB\stm32f10x_conf.h)(0x53B6853A)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x53B6853A)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x53B6853A)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x53B6853A)
+F (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\src\stm32f10x_gpio.c)(0x53B6853A)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I E:\Works\Working\Keil\STM32\Programs\GPIO_OP\13.BSR_BRR\RTE-I E:\Works\Working\Keil\STM32\Programs\GPIO_OP\13.BSR_BRR\RTE\Device\STM32F100RB-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\inc-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_MD_VL-o .\objects\stm32f10x_gpio.o --omf_browse .\objects\stm32f10x_gpio.crf --depend .\objects\stm32f10x_gpio.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x53B6853A)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA3088)
+I (E:\Works\Working\Keil\STM32\Programs\GPIO_OP\13.BSR_BRR\RTE\RTE_Components.h)(0x562A7AC7)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm3.h)(0x53FC5502)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54761628)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF15D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF15D2)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E5164)
+I (E:\Works\Working\Keil\STM32\Programs\GPIO_OP\13.BSR_BRR\RTE\Device\STM32F100RB\stm32f10x_conf.h)(0x53B6853A)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x53B6853A)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x53B6853A)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\inc\misc.h)(0x53B6853A)
+F (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\src\stm32f10x_rcc.c)(0x53B6853A)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I E:\Works\Working\Keil\STM32\Programs\GPIO_OP\13.BSR_BRR\RTE-I E:\Works\Working\Keil\STM32\Programs\GPIO_OP\13.BSR_BRR\RTE\Device\STM32F100RB-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\inc-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_MD_VL-o .\objects\stm32f10x_rcc.o --omf_browse .\objects\stm32f10x_rcc.crf --depend .\objects\stm32f10x_rcc.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x53B6853A)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA3088)
+I (E:\Works\Working\Keil\STM32\Programs\GPIO_OP\13.BSR_BRR\RTE\RTE_Components.h)(0x562A7AC7)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm3.h)(0x53FC5502)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54761628)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF15D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF15D2)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E5164)
+I (E:\Works\Working\Keil\STM32\Programs\GPIO_OP\13.BSR_BRR\RTE\Device\STM32F100RB\stm32f10x_conf.h)(0x53B6853A)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x53B6853A)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x53B6853A)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\inc\misc.h)(0x53B6853A)
+F (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\src\stm32f10x_rtc.c)(0x53B6853A)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I E:\Works\Working\Keil\STM32\Programs\GPIO_OP\13.BSR_BRR\RTE-I E:\Works\Working\Keil\STM32\Programs\GPIO_OP\13.BSR_BRR\RTE\Device\STM32F100RB-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\inc-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_MD_VL-o .\objects\stm32f10x_rtc.o --omf_browse .\objects\stm32f10x_rtc.crf --depend .\objects\stm32f10x_rtc.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x53B6853A)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA3088)
+I (E:\Works\Working\Keil\STM32\Programs\GPIO_OP\13.BSR_BRR\RTE\RTE_Components.h)(0x562A7AC7)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm3.h)(0x53FC5502)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54761628)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF15D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF15D2)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E5164)
+I (E:\Works\Working\Keil\STM32\Programs\GPIO_OP\13.BSR_BRR\RTE\Device\STM32F100RB\stm32f10x_conf.h)(0x53B6853A)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x53B6853A)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x53B6853A)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\inc\misc.h)(0x53B6853A)
+F (RTE\Device\STM32F100RB\RTE_Device.h)(0x52433BA0)()
+F (RTE\Device\STM32F100RB\startup_stm32f10x_md_vl.s)(0x4F1E5164)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I E:\Works\Working\Keil\STM32\Programs\GPIO_OP\13.BSR_BRR\RTE-I E:\Works\Working\Keil\STM32\Programs\GPIO_OP\13.BSR_BRR\RTE\Device\STM32F100RB-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\inc--pd "__UVISION_VERSION SETA 514" --pd "_RTE_ SETA 1" --pd "STM32F10X_MD_VL SETA 1"--list .\listings\startup_stm32f10x_md_vl.lst --xref -o .\objects\startup_stm32f10x_md_vl.o --depend .\objects\startup_stm32f10x_md_vl.d)
+F (RTE\Device\STM32F100RB\stm32f10x_conf.h)(0x53B6853A)()
+F (RTE\Device\STM32F100RB\system_stm32f10x.c)(0x4F1E5164)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I E:\Works\Working\Keil\STM32\Programs\GPIO_OP\13.BSR_BRR\RTE-I E:\Works\Working\Keil\STM32\Programs\GPIO_OP\13.BSR_BRR\RTE\Device\STM32F100RB-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\inc-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F10X_MD_VL-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA3088)
+I (E:\Works\Working\Keil\STM32\Programs\GPIO_OP\13.BSR_BRR\RTE\RTE_Components.h)(0x562A7AC7)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm3.h)(0x53FC5502)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54761628)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF15D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF15D2)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E5164)
+I (E:\Works\Working\Keil\STM32\Programs\GPIO_OP\13.BSR_BRR\RTE\Device\STM32F100RB\stm32f10x_conf.h)(0x53B6853A)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x53B6853A)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x53B6853A)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x53B6853A)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\StdPeriph_Driver\inc\misc.h)(0x53B6853A)
